@@ -1,12 +1,12 @@
 %define		plugin	airline
 Summary:	Vim plugin: Lean & mean status/tabline for vim that's light as air
 Name:		vim-plugin-%{plugin}
-Version:	0.10
+Version:	0.11
 Release:	1
 License:	Vim
 Group:		Applications/Editors/Vim
 Source0:	https://github.com/vim-airline/vim-airline/archive/v%{version}.tar.gz
-# Source0-md5:	867aff645734920b1c8e415590072558
+# Source0-md5:	6d6daf831ed726dc06a22ede69f5cbb1
 URL:		http://www.vim.org/scripts/script.php?script_id=4661
 Requires:	vim-rt >= 4:7.4.0
 BuildArch:	noarch
